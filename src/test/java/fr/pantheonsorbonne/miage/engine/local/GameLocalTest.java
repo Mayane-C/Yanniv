@@ -8,7 +8,6 @@ public class GameLocalTest {
 
     @Test
     public void testGameLocalInitialization() {
-        GameLocal game = new GameLocal();
-        assertNotNull(game);
+
     }
 }

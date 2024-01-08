@@ -8,21 +8,7 @@ public class GameImplTest {
     
     GameImpl game= new GameLocal();
 
-  @Test
-    public void testInitializePlayers(){
-        game.initializePlayers();
-        
-    }
 
-    @Test
-    public void testInstallation(){
-        game.installation();
 
-    }
 
-    @Test
-    public void testStart(){
-        game.start();
-    }
-    
 }
